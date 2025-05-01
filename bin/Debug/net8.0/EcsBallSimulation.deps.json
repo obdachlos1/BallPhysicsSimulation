@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EcsBallSimulation/1.0.0": {
+        "dependencies": {
+          "Leopotam.EcsLite": "1.0.1"
+        },
+        "runtime": {
+          "EcsBallSimulation.dll": {}
+        }
+      },
+      "Leopotam.EcsLite/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Leopotam.EcsLite.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcsBallSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Leopotam.EcsLite/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IdnqgAyLTWUtSWBp37q/VnMJrWve0ZKrl0rikj3RIBHo+y2YD+WgWJ81ulDJBtIS/gBfKA6ps0setnSykYsVQw==",
+      "path": "leopotam.ecslite/1.0.1",
+      "hashPath": "leopotam.ecslite.1.0.1.nupkg.sha512"
+    }
+  }
+}

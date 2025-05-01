@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\bin\Debug\net8.0\EcsBallSimulation.exe
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\bin\Debug\net8.0\EcsBallSimulation.deps.json
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\bin\Debug\net8.0\EcsBallSimulation.runtimeconfig.json
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\bin\Debug\net8.0\EcsBallSimulation.dll
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\bin\Debug\net8.0\EcsBallSimulation.pdb
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\bin\Debug\net8.0\Leopotam.EcsLite.dll
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.AssemblyInfo.cs
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallS.074831F2.Up2Date
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.dll
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\refint\EcsBallSimulation.dll
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.pdb
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\EcsBallSimulation.genruntimeconfig.cache
+C:\Users\user\source\repos\BallPhysicsSimulation\EcsBallSimulation\obj\Debug\net8.0\ref\EcsBallSimulation.dll
